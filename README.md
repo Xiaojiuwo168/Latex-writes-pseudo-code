@@ -39,7 +39,9 @@
 ![image](https://user-images.githubusercontent.com/85736050/206119391-b4fae995-6b70-4094-a08f-b9362ed68d78.png)
 
 ##2. Import the dependency package.
+
 \usepackage[noend]{algpseudocode}
+
 \usepackage{algorithmicx,algorithm}
 
 ```
@@ -71,8 +73,11 @@ output result
 ![image](https://user-images.githubusercontent.com/85736050/206119891-bbd79868-fa80-4ec1-97cd-ca48494304b1.png)
 
 ##3. Import the dependency package.
+
 %\usepackage{algorithm}
+
 %\usepackage{algorithmicx}
+
 %\usepackage{algpseudocode}  % 如果不想在算法伪代码模块中显示 end for 和 end while，则使用  %\usepackage[noend]{algpseudocode}
 
 
