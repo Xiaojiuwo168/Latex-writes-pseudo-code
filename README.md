@@ -1,10 +1,12 @@
 # Latex-writes-pseudo-code
 
-亲测有效
+##亲测有效
 
-1、导入依赖包：
+##1、导入依赖包：
+
 \usepackage[ruled]{algorithm2e}
-'''
+
+```
 \begin{algorithm}[]  %其中这里面不能有H不然会报错，不过不影响结果
 	\caption{algorithm caption}%算法名字
 	\LinesNumbered %要求显示行号
@@ -32,7 +34,7 @@
 	}
 \end{algorithm}
 
-'''
+```
 ![image](https://user-images.githubusercontent.com/85736050/206119391-b4fae995-6b70-4094-a08f-b9362ed68d78.png)
 
 
