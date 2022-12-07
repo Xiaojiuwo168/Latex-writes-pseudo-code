@@ -34,9 +34,9 @@
 	}
 \end{algorithm}
 
-![image](https://user-images.githubusercontent.com/85736050/206119391-b4fae995-6b70-4094-a08f-b9362ed68d78.png)
-
 ```
+
+![image](https://user-images.githubusercontent.com/85736050/206119391-b4fae995-6b70-4094-a08f-b9362ed68d78.png)
 
 ##2. Import the dependency package.
 \usepackage[noend]{algpseudocode}
@@ -66,9 +66,9 @@ output result
 \end{algorithmic}
 \end{algorithm}
 
-![image](https://user-images.githubusercontent.com/85736050/206119891-bbd79868-fa80-4ec1-97cd-ca48494304b1.png)
-
 ```
+
+![image](https://user-images.githubusercontent.com/85736050/206119891-bbd79868-fa80-4ec1-97cd-ca48494304b1.png)
 
 ##3. Import the dependency package.
 %\usepackage{algorithm}
@@ -105,10 +105,8 @@ output result
 	\end{algorithmic} 
 \end{algorithm}
 
-![image](https://user-images.githubusercontent.com/85736050/206119986-48606756-5612-4715-bcf0-55651f3c4582.png)
-
-
 ```
+![image](https://user-images.githubusercontent.com/85736050/206119986-48606756-5612-4715-bcf0-55651f3c4582.png)
 
 
 
